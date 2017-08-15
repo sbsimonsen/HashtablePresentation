@@ -1,6 +1,6 @@
 # The fun stuff
 # Ordered hashtables
-$person = @{
+$person = [ordered]@{
     name = 'Kevin'
     age  = 37
 }
